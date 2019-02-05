@@ -1,0 +1,4 @@
+baseURL = "http://codepoetics.com/thelastinstance"
+languageCode = "en-uk"
+title = "The Last Instance"
+theme = "ananke"
