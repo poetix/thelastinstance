@@ -2,3 +2,16 @@ baseURL = "https://codepoetics.com"
 languageCode = "en-uk"
 title = "The Last Instance"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "follow back pro eschaton"
+  recent_posts_number = 5
