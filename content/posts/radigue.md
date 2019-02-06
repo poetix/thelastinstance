@@ -1,7 +1,7 @@
 ---
 title: "Trilogie de la Mort"
 date: 2019-02-06T18:03:59Z
-draft: true
+draft: false
 ---
 Today I have been listening, on headphones and while attending to other tasks, to Eliane Radigue's _Trilogie de la Mort_, having been reminded of its existence by a short poem of Barry Alpert's. Responding to that poem, which includes the unusual word "adynamy", I described Radigue's trilogy as "lovely/terrifying", and noted that it tended to induce "a deathly stillness in the listener".
 
