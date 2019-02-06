@@ -1,7 +1,7 @@
 baseURL = "https://thelastinstance.com"
 languageCode = "en-uk"
 title = "The Last Instance"
-theme = "ananke"
+theme = "hugo-tikva"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
