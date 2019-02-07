@@ -10,12 +10,12 @@ tags:
   - autism
   - anne carson
 ---
-> Language of occasion has here fallen
-> into occurrence of outcry, reactive
-> outcry, like a treatable depression
+> Language of occasion has here fallen  
+> into occurrence of outcry, reactive  
+> outcry, like a treatable depression  
 >
-> that happens not to respond. If fate,
-> then fated like autism."
+> that happens not to respond. If fate,  
+> then fated like autism.  
 >
 > _Geoffrey Hill, "Scenes from Comus"_
 

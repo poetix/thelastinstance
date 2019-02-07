@@ -11,18 +11,18 @@ tags:
 ---
 Lal Waterson as lyricist has a bit of Stevie Smith about her, and quite a bit of Rosemarie Tonks, and reminds me sometimes of U. A. Fanthorpe too. There's a strong note of defiant lamentation (see the way she sings "I don't need nobody helping me / I don't need no bugger's arm around me"...) which I think of as a particularly late-60s thing for some reason (although Fanthorpe didn't publish anything until the 70s were nearly out):
 
-> Fell in the street in a drunken heap;
-> There's bright water all around me.
-> And the cheap red wine in my drunken brain
-> Has left a burning flame in my belly.
-> I don't need nobody helping me;
-> I don't need nobody's arm around me.
-> If I was a black beetle upside down,
-> I could kick all night long and never turn around.
-> But I'm flat on my back in the rainbow rain,
-> Still I know, in the morning I'll be on me feet again.
-> Just can't get a grip of the ground;
-> I'm upside down the right way round.
+> Fell in the street in a drunken heap;  
+> There's bright water all around me.  
+> And the cheap red wine in my drunken brain  
+> Has left a burning flame in my belly.  
+> I don't need nobody helping me;  
+> I don't need nobody's arm around me.  
+> If I was a black beetle upside down,  
+> I could kick all night long and never turn around.  
+> But I'm flat on my back in the rainbow rain,  
+> Still I know, in the morning I'll be on me feet again.  
+> Just can't get a grip of the ground;  
+> I'm upside down the right way round.  
 >
 > (Red Wine Promises)
 
