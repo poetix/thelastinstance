@@ -1,17 +1,25 @@
 baseURL = "https://thelastinstance.com/"
 languageCode = "en-uk"
 title = "The Last Instance"
-theme = "ananke"
+theme = "hermit"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
 [params]
-  description = "follow back pro eschaton"
-  recent_posts_number = 5
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04:00"
+
+  themeColor = "#494f5c"
+  justifyContent = true
+  homeSubtitle = "follow back pro eschaton"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/poetix"
