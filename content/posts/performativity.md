@@ -2,6 +2,8 @@
 title: "Impact agenda"
 date: 2018-10-08T11:14:29 
 draft: false
+tags:
+  - kate tempest
 ---
 
 I don't think I'm ever going to make my peace with "performance poetry", or indeed "the poetry of social engagement" as a special class of thing. Which is not to say that poets shouldn't _perform_ (G. Hill's readings were often quite extraordinary performances) or that poetry shouldn't be polemical and highly politicised (although it may well look askance at its own rhetoric while being so).

@@ -2,6 +2,8 @@
 title: "Dispossessions"
 date: 2018-06-25T16:04:17 
 draft: false
+tags:
+  - autism
 ---
 There's a buzz I remember from doing Proper Research where you find something that really strongly confirms and enhances the speculative line you're pursuing. I got a lovely jolt of it today from the discovery that the "empath" character in the le Guin story "Vaster Than Empires and More Slow" is allegedly a "cured" (or inverted) autist.
 
