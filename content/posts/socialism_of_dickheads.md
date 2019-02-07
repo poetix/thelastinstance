@@ -1,6 +1,6 @@
 ---
 title: "Dundridge Amiritica"
-date: 2017-11-06T14:10
+date: 2017-11-06T14:10:00
 draft: false
 toc: false
 images:
