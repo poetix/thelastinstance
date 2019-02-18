@@ -32,3 +32,15 @@ Paginate = 10
   [[params.social]]
     name = "instagram"
     url = "https://www.instagram.com/codepoetics"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 20
+
+  [[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 10
