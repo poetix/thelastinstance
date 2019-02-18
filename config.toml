@@ -23,3 +23,12 @@ Paginate = 10
   [[params.social]]
     name = "github"
     url = "https://github.com/poetix"
+  [[params.social]]
+    name = "email"
+    url = "mailto:dominic.fox@gmail.com"
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCUfGWLyV5VzfbkuK62flxvg"
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/codepoetics"
