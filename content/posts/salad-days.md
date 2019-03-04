@@ -1,7 +1,7 @@
 ---
 title: "Salad Days"
 date: 2019-03-04T21:27:34Z
-draft: true
+draft: false
 tags:
   - salad fingers
   - brexit
