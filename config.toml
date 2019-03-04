@@ -15,7 +15,7 @@ Paginate = 10
 
   themeColor = "#494f5c"
   justifyContent = true
-  homeSubtitle = "follow back pro eschaton"
+  homeSubtitle = "yes, we are gorgons"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   # Social Icons
@@ -38,4 +38,9 @@ Paginate = 10
   [[menu.main]]
     name = "About"
     url = "about"
+    weight = 10
+
+  [[menu.main]]
+    name = "Links"
+    url = "links"
     weight = 10
