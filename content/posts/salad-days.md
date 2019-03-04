@@ -2,6 +2,10 @@
 title: "Salad Days"
 date: 2019-03-04T21:27:34Z
 draft: true
+tags:
+  - salad fingers
+  - brexit
+  - psychoanalysis
 ---
 A staple of the Radio 4 panel show _I'm Sorry, I Haven't A Clue_, the game "One Song To The Tune Of Another" is about finding humour in incongruous combinations of lyric and melody: the Undertones' "Teenage Kicks" to the tune of "Jerusalem", or Pink's "Get The Party Started" to the tune of "A Policeman's Lot Is Not A Happy One". A similar kind of incongruity is at work in David Firth's long-running animation series _Salad Fingers_, which derives much of its unsettling fascination from the transmutation of the _wholesome_ into the _unwholesome_. Hospitality, kinship, ritual, intimacy and memory are fractured and reconstituted, turned into the playthings of a guileless gremlin who delights in a sort of solipsistic travesty. But if _Salad Fingers_ were solely about _profanation_, it would not have such an eerie effect. What really gives Firth's animation its kick is the way that its titular protagonist, who mishandles everything with his misshapen digits, reveals the latent sadism and corruption within the wholesome itself.
 
