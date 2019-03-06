@@ -1,5 +1,5 @@
 ---
-title: "O curs&egrave;d spite"
+title: "O cursed spite"
 date: 2019-03-06T09:17:15Z
 draft:  false
 toc: false
