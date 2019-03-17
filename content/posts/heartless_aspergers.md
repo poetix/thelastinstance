@@ -1,7 +1,11 @@
 ---
 title: "Adequately Ensouled"
 date: 2019-03-16T20:02:33Z
-draft: true
+draft: false
+tags:
+  - autism
+  - aspergers
+  - solidarity
 ---
 Michele Pridmore-Brown's [LRB review of Edith Sheffer's _Asperger's Children_](https://www.lrb.co.uk/v41/n06/michele-pridmore-brown/unfeeling-malice) opens with a useful discussion of _Gem&uuml;t_, a German word seemingly without exact English equivalent. _Gem&uuml;tlichket_ is commonly translated as "friendliness" or "geniality", while _Gem&uuml;t_ itself translates as "mind", "heart" or "soul"; one gloss has "the totality of the mental and spiritual powers of a human being". There is a distant correspondence between _M&uuml;t_ and "mood".
 
