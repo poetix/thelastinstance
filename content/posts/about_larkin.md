@@ -6,7 +6,7 @@ tags:
   - larkin
   - poetry
 ---
-_(An analysis of Larkin's "Love Again" I wrote a few years ago, and had thought lost.)_
+_(An analysis of Larkin's [Love Again](https://www.poetryfoundation.org/poems/48424/love-again) I wrote a few years ago, and had thought lost.)_
 
 A defunct form of misery, or so we might imagine. Larkin had a couple
 of tries at imagining it so himself, notably in "High Windows" and
