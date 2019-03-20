@@ -7,6 +7,7 @@ images:
 tags: 
   - poem
 ---
+(an old poem, from July 2008)
 
     The treatment is pioneering, and never
     more in demand than now
@@ -76,4 +77,3 @@ tags:
     "Why not ask them", he says, "if they _feel_
     violated?"
 
-(an old poem, from July 2008)
