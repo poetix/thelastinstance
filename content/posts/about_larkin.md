@@ -59,7 +59,7 @@ about to "put...into words"? Even, I think, to feel happy for this
 person he says he loves (if that is what he is saying): the sequence
 would then run from ignorance, through amusement and indifference, to
 benevolence. But this step, a first step beyond selfishness, is beyond
-Larkin -- or so he insists, in poem after poem.
+Larkin --- or so he insists, in poem after poem.
 
 Instead, the poem turns to the question of "this element // That
 spreads through other lives like a tree / And sways them on in a sort
@@ -76,8 +76,8 @@ Larkin's answer, here, to the question of "why it never worked for me"
 seems to have something to do with attachment: the implicit narrative
 I think is one of a "violence / A long way back" that detached him
 from the sympathetic weave of "other lives", and a subsequent
-attachment to "wrong rewards" -- the satisfactions of poetic craft,
-ironic knowledge, literary fame -- that belong to "arrogant eternity"
+attachment to "wrong rewards" --- the satisfactions of poetic craft,
+ironic knowledge, literary fame --- that belong to "arrogant eternity"
 rather than the temporal present through which Larkin's imagined tree
 of life spreads its branches. Poetry here is not the sublimation of
 erotic urges, or "emotion recollected in tranquility", but rather a

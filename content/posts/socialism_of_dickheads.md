@@ -8,7 +8,7 @@ tags:
   - brexit
   - carole cadwalladr
 ---
-When August Bebel wrote that "anti-semitism is the socialism of fools", [this](https://www.globalresearch.ca/how-brexit-was-engineered-by-foreign-billionaires-to-bring-about-economic-chaos-for-profit/5614194) was the sort of thing he was talking about. It isn't directly anti-semitic, of course, but it deploys the standard tropes of anti-semitic conspiracy theory -- shadowy international financiers, sinister foreign puppet-masters undermining our national integrity -- in a hamfisted attempt to make sense of how capitalist agents and institutions shape and respond to events like the Brexit vote.
+When August Bebel wrote that "anti-semitism is the socialism of fools", [this](https://www.globalresearch.ca/how-brexit-was-engineered-by-foreign-billionaires-to-bring-about-economic-chaos-for-profit/5614194) was the sort of thing he was talking about. It isn't directly anti-semitic, of course, but it deploys the standard tropes of anti-semitic conspiracy theory --- shadowy international financiers, sinister foreign puppet-masters undermining our national integrity --- in a hamfisted attempt to make sense of how capitalist agents and institutions shape and respond to events like the Brexit vote.
 
 I blame Carole Cadwalladr in particular for feeding this narrative with her breathless scaremongering about Cambridge Analytica and the Trump-Farage Pact. But it represents more generally a desperate search on the part of liberal remainers to find an explanation for the Brexit vote that exonerates our own failing democratic institutions. They need there to be some "exceptional" cause, outside of the normal life of those institutions, that can explain their failure to maintain the status quo.
 

@@ -26,7 +26,7 @@ the pears and artichokes of happiness.
 To bite down is at once to visualise,  
 through insta-filter granting hue of chocolate,  
 the softly rippled surface of the sky.  
-(I do not know why raisins taste of fright --  
+(I do not know why raisins taste of fright ---  
 
 something hard-pressed, as though the taste of fright  
 were always against the teeth of inspiration.)  
