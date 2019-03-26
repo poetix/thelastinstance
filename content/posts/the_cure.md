@@ -16,7 +16,7 @@ tags:
     into reception, thousand-yard-
     staring and gritting their teeth.
     
-    In stage one - diagnosis - the patient,
+    In stage one -- diagnosis -- the patient,
     extensively instrumented,
     is prompted to home in on his stress-trigger
     which blooms across the screen
@@ -24,7 +24,7 @@ tags:
     Graphs are extrapolated, correlations mapped
     by costly hardware in the east
     wing, codenamed
-    BRAINIAC - appropriately, as it too
+    BRAINIAC -- appropriately, as it too
     is a cluster of very many small
     functions running massively
     in parallel. This takes
