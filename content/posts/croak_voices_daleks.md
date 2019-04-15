@@ -1,0 +1,26 @@
+---
+title: "Bring Me The Head Of Light Entertainment"
+date: 2019-04-15T15:27:18+01:00
+draft: false
+toc: false
+images:
+tags: 
+  - alan partridge
+  - dennis potter
+  - tribune
+---
+[My review of _This Time With Alan Partridge_](https://tribunemag.co.uk/2019/04/bring-me-the-head-of-light-entertainment) is now up over at Tribune:
+
+> 25 years on, Alan Partridge is not only a household name, but a “national treasure” (according to _Vogue_) and “one of the greatest and most beloved comic creations of the last few decades” (the Guardian). It is the common fate of such “creations”, like Captain Mainwaring and Basil Fawlty, to become icons of national self-regard, “beloved” because they project and affirm a reassuring notion of ourselves as candidly eccentric, excusably prejudiced, loveable despite it all. _This Time with Alan Partridge_ has done perhaps the only really interesting thing that can be done with such a character, once such lionization sets in: it has divided opinion.
+
+Here's the bit of [Dennis Potter's "Occupying Powers"](http://www.thetvfestival.com/website/wp-content/uploads/2015/03/GEITF_MacTaggart_1993_Dennis_Potter.pdf) I mentioned at the beginning:
+
+> I am giving the melodramatic and not at all tuneful title _Occupying Powers_ to this year’s James MacTaggart Memorial Lecture. The title has not been chosen simply to indulge yet again in the inevitable paranoia which so afflicts writers that work in television, although I’ll give that a go too. No, I call this Occupying Powers so that I can reflect behind the barricade of metaphor about what it really feels like, for many others besides myself who sell their services and some of their passions to the strange new generations of broadcasting managements and their proprietors. 
+
+> More than that, wider than that, I want to use the title to reach beyond our parochial concerns and grapple with a few thoughts about what it means to be a citizen (or do I mean a consumer) in the United Kingdom plc., where two-thirds of the population live on incomes below the national average of £250.00 a week, almost 5.75million exist on less than £100.00 a week, three million are unemployed, three million children live in poverty, one-fifth of the young are innumerate, the chasm between the highest and lowest paid is wider than at any time since 1886, and Dave Lee Travis has resigned from Radio 1. What is at the heart of such a distorted society? 
+
+> Quote: “Broadcasting is at the heart of British Society. The structure and the competition of the broadcasting industry, the purpose and motivation of broadcasters and the programmes and services they offer are vital factors in reflecting and shaping that society.” I, too, would like a mirror that reflects and shapes, but these are the words of the BBC at its most ponderously anodyne as it responded to the Government’s Green Paper on the future of the Corporation.
+
+The Partridge review wasn't an obvious place to dwell on that line about how "the structure and competition of the broadcasting industry...are vital factors in reflecting and shaping that society" - "anodyne" phrasing that conceals a double-edged sword. To consider the BBC as existing in competition with other broadcasters, as part of the structure of an industry, is already (as Rupert Murdoch had been complaining for years) to see it as deforming that structure, since the licence fee places it in _unfair_ competition with every other player in that industry. The compromise set out by "croak-voiced daleks" Birt and Hussey was to structure the BBC _internally_ according to the rules of the market - an approach that has been steadily rolled out across the private sector ever since. Thus, the NHS is permitted to remain in "unfair" competition with private healthcare providers _on condition_ that it is internally subject to market discipline, with its own services put out to tender and carved up between multiple private agencies, its funding delivered via dodgy investment vehicles such as the ruinous PFI deals struck under Blair's government, and so on. What cannot be permitted to exist are public services that are actually run as public services, "deforming" the market by providing a counterbalance and an alternative to the private sector's manner of operation. It undermines morale, or something.
+
+We are now at a point where there seems to be real popular momentum behind demands such as "nationalise the railways!", which suggests widespread dissatisfaction with the operation of essential services and infrastructure according to the rubric of marketised private provision - and this is good, but the question remains of what a public service operated _as a public service_ might actually look like today, and how it might be effectively defended against continual political and legal pressure from the private sector to eliminate anti-competitive players from the game (or discipline them into playing it "fairly"). I think part of the answer is a high degree of workers' control, and another part is democratic oversight via other publicly accountable bodies - but with a diminished role for central government, which tends to play political football with such things. Essentially you need a balance of powers ensuring that public services don't end up being captured by one set of interests at the expense of the public in general.
