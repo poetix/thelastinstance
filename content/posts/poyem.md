@@ -1,12 +1,13 @@
 ---
 title: "Poyem"
 date: 2019-04-23T16:59:39+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
-  - untagged
+  - poetry
 ---
+Some opening verses.
 
     Omen of omnishambles, sleet-darkened skies,
     all London under grey precipitation.
@@ -31,4 +32,12 @@ tags:
     suspended for celebrity cameo,
     recaptioned image macro drawing egregious
     micropayments.
+
+    I cannot say I saw the point of Dryden
+    at nineteen. This likewise may elude you.
+    In which case let it go. It may come to you anon.
+    Dryden is funnier, or alleged to be.
+    Don't judge me by my weakling prosody:
+    everyone has their off-day, or decade, or
+    ageless aeon.
 
