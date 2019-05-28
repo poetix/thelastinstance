@@ -1,7 +1,7 @@
 ---
 title: "Knots"
 date: 2019-05-27T23:07:10+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
