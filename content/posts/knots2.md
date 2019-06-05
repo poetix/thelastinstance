@@ -11,7 +11,7 @@ tags:
   - trans rights
   - weakness
 ---
-A second theme, obscurely knotted together for me with that of ["subculture"](posts/knots), is that of "weakness". I am thinking partly of the vulnerability of shared values, which are often a layering-in together of explicit and implicit values, to attacks on those values which demand that everything be explicitly argued and justified, or aim to put their targets to the trouble of attempting such a justification.
+A second theme, obscurely knotted together for me with that of ["subculture"](/posts/knots), is that of "weakness". I am thinking partly of the vulnerability of shared values, which are often a layering-in together of explicit and implicit values, to attacks on those values which demand that everything be explicitly argued and justified, or aim to put their targets to the trouble of attempting such a justification.
 
 While it's often useful to make the implicit explicit, to provide a narrative which explains the origins in experience and practice of the commitments and attitudes which scaffold the positions we publicly espouse, we are always driven into a place of weakness when we try to explain ourselves in this way to a hostile interlocutor, who reserves the right to interrupt our backstory with a curt demand that we "answer the question!". If we ourselves want to revise our explicit values and commitments, we may also have to return to this place of weakness, where we are not so sure of ourselves, and may be asked to consider concessions we do not want to make.
 
