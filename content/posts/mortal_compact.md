@@ -1,7 +1,10 @@
 ---
 title: "Mortal Compact"
 date: 2019-07-06T21:07:41+01:00
-draft: true
+draft: false
+tags:
+  - black mirror
+  - sexuality
 ---
 The true subject of _Black Mirror_ is not so much technology (["what if phones, but too much"](http://the-toast.net/2015/01/20/next-black-mirror/)) as derealisation, the absence or suspension of the real. Each episode's technological [MacGuffin](https://en.wikipedia.org/wiki/MacGuffin) acts as a quasi-magical means by which some index of the real is effaced or diverted, usually to melancholy effect. The absence of a limit brings relief, exultation or a giddy sense of possibility, which is soon replaced by anxiety as the familiar parameters of human existence start to shift and dissolve. Some episodes stage this in a spirit of resignation as pure bathos or tragic irony, while others work to reaffirm human agency under the new conditions. These are both modes of humanist storytelling, which characterise the human in terms of experiential limits such as "love" and "mortality": the ties which bind. Few _Black Mirror_ stories meet Frederick Pohl's criterion for a "good science fiction story", that it "should be able to predict not the automobile but the traffic jam". Rather than imagining the social ramifications, at scale, of plausible technological change, they imagine universalised human subjects losing and recovering their humanity through the intervention of supernatural forces: luminiferous magical artefacts and all-knowing (yet exploitably fallible) AIs.
 
