@@ -5,7 +5,7 @@ draft: false
 ---
 Blogs:
 
-* [Feral Machines](http://fm.eschatronics.ca)
+* [Feral Machines](http://feralmachin.es)
 * [Deontologistics](https://deontologistics.wordpress.com)
 * [Conflated Automatons](https://conflatedautomatons.wordpress.com)
 * [Otium](https://srconstantin.wordpress.com/)
