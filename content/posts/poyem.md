@@ -11,15 +11,15 @@ Some opening verses.
 
     Omen of omnishambles, sleet-darkened skies,
     all London under grey precipitation.
-    Some Spring weather. Scarcely seasonal at all.
-    The seasons have abandoned their procession,
-    dive for extemporaneous cover under downpour.
+    Some Spring we're having, far from seasonal:
+    the seasons have abandoned their procession,
+    dive now for cover under sudden downpour.
     Tomorrow's sun will sizzle-dry these same
-    sozzled pavements.
+    sodden pavements.
 
-    "A situation of total disorder", per Wikipedia.
+    Define "a situation of total disorder".
     The neologism is good to have in hand.
-    Some end up soused in mysticism, full of ecstasy
+    Some wind up soused in mysticism, full of ecstasy
     and fire, farraginously self-misled.
     Some might suppose the nation well-ensorcelled,
     dazzled by gleam in deathless mad Rasputin's
@@ -27,17 +27,17 @@ Some opening verses.
 
     No salvage for those savaged by feral media
     claim slightly-mauled, frontrunning comeback tour.
-    Bellum omnium contra omnes has its moments
-    of breathless camaraderie, like arena bloodsport
+    Bellum omnium contra omnes has moments
+    of breathless camaraderie, like bloodsport
     suspended for celebrity cameo,
     recaptioned image macro drawing egregious
     micropayments.
 
     I cannot say I saw the point of Dryden
     at nineteen. This likewise may elude you.
-    In which case let it go. It may come to you anon.
+    In which case let it go. It may come anon.
     Dryden is funnier, or alleged to be.
-    Don't judge me by my weakling prosody:
+    Don't judge me by my knock-kneed prosody:
     everyone has their off-day, or decade, or
     ageless aeon.
 

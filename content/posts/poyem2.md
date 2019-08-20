@@ -33,7 +33,7 @@ Continuing:
     a floating skull, that sort of thing; then tie-dye
     coloured Mandelbrotian swirls, an anodyne
     enough default. I can get weirder on
-    two hours' sleep-debt.
+    some hours' sleep-debt.
 
     But he wrote to get seriously defaced,
     make legible the ungovernable within
