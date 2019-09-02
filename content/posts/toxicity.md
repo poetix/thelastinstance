@@ -1,6 +1,6 @@
 ---
 title: "Toxicity"
-date: 2019-09-02T18:48:34Z
+date: 2019-09-02T17:48:34Z
 draft: false
 tags:
   - masculinity
