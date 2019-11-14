@@ -4,7 +4,7 @@ date: 2019-05-03T16:57:36+01:00
 draft: false
 toc: false
 images:
-tags: 
+tags:
   - poetry
   - mark fisher
   - goldsmiths
@@ -25,7 +25,7 @@ Continuing:
     ill-disposed towards us. Might be guilty
     projection, panic flashes around New Cross.
     By acid he meant psyche-manifesting
-    not lysergic.
+    stroke lysergic.
 
     Has anyone ever seen it? I mean the psyche -
     topos of affect, global image depot.

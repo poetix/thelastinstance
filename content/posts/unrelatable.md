@@ -1,10 +1,10 @@
 ---
 title: "Unrelatable"
 date: 2019-07-15T17:07:18+01:00
-draft: false 
+draft: false
 toc: false
 images:
-tags: 
+tags:
   - judith butler
   - relationality
 ---
@@ -19,5 +19,4 @@ The web of relational co-creation seems like a fecund metaphor for human collect
 
 In practice, as Butler's theme of the "ungrievable" acutely recognises, capitalism distinguishes sharply between productive and unproductive, reproducible and non-reproducible, selected and dysselected persons and populations. But are we justified in assuming that outside of a capitalist ensemble of relations we would immediately find ourselves enfolded in a global relationality in which nothing and no-one was unneeded, excessive, extraneous, supernumerary?
 
-One could make almost the opposite argument, which is that an ethical obligation which does not hold in the absence of any possible relational binding or reciprocity is not truly ethical, but merely another guise for the general quid pro quo. Does Jesus heal the leper because the leper is part of the interconnected web of interdependency which makes up the socio-ecological world on which Jesus depends, or because the leper is precisely the diseased and abjected figure on whom nothing and nobody depends, whom the rest of the world is simply waiting to die?
-
+One could make almost the opposite argument, which is that an ethical obligation which does not hold in the absence of any possible relational binding or reciprocity is not truly ethical, but merely another guise for the general quid pro quo. Does Jesus heal the leper because the leper is part of the interconnected web of interdependency which makes up the socio-ecological world on which Jesus depends, or because the leper is precisely the diseased and abjected figure on whom nothing and nobody depends, whom the rest of the world is simply waiting to see die?
