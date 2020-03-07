@@ -14,7 +14,7 @@ parties maybe irrevocably vacated.
 Scratching deepens the furrow, wearing down  
 to aggravated crackle, echoic clucking  
 too long after the fact. Keep cutting heads  
-for dwindling patrimony; under no circumstances  
+for dwindling pay-off; under no circumstances  
 change the record.  
 
 What I do in my sleep is less exotic;  
