@@ -21,7 +21,7 @@ What I do in my sleep is less exotic;
 miss people, mostly, or try rescuing  
 their shades from roiling Hades, hauling out  
 of burning Thames the wrong or some depleted  
-phantom no longer answerable for themselves,  
+phantom no longer answerable for itself,  
 the jawbone working tirelessly in vapid  
 jibber-jabber.  
 
