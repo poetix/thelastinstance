@@ -38,5 +38,5 @@ in fields and rivers new intelligence
 adrift or ambling in unsettled pattern.   
 Judgement steals into things, unseating habit,   
 upending tables. Safes are made for breaking   
-from within, by force of ineluctable _an-_   
-_agnorisis_.
+from within, by force of ineluctable
+_anagnorisis_.
