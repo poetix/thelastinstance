@@ -6,7 +6,7 @@ toc: false
 images:
 tags: 
   -- autism
-  -- Margaret Atwood
+  -- atwood
 ---
 A famous scene from _The Handmaid’s Tale_: the handmaids are summoned to a “particution” -- a participatory execution -- purportedly of a man who has raped two women, causing one to miscarry. Incited to a frenzy by the recital of his crimes, the women rush forward en masse and dismember him with their bare hands. It is presently revealed that the crime was a fiction: the condemned man was in fact a member of the Mayday resistance, a convenient victim for a Bacchanalian ceremony of outrage. A repressive society must have its outlets: the men get their brothel, the women their collective blood-feast. We understand that the women express through this frenzy their grief and fury at what has been done to them, but also that this is an ancient _jouissance_ and derangement -- one of the standing potentialities of human (and archetypically female, if you’re into that sort of thing) nature.
 
