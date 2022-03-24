@@ -1,7 +1,7 @@
 ---
 title: "Do Not Want"
 date: 2022-03-14T13:03:34Z
-draft: true
+draft: false
 ---
 One of the persistent vexations of autistic life is being told by other people that one should want other things than one does, a demand whose apparent reasonability from the point of view of the demanding party in itself constitutes a formidable cognitive obstacle. I sometimes talk about neurodivergent experience in terms of “caring too much about the wrong things”. Autistic “special interests” - those “fixations” from which others so earnestly wish to separate us - have a deviant salience: they stick out like a sore thumb.
 
