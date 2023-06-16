@@ -1,7 +1,7 @@
 ---
 title: "Idle Talk"
 date: 2023-04-13T15:38:26+01:00
-draft: false
+draft: true
 ---
 Plato:
 
